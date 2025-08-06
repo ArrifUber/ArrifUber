@@ -1,15 +1,28 @@
-<h2 align="left">Hi 👋! My name is Arif....</h2>
-
-
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arrifuber&label=Profile%20views&color=0e75b6&style=flat" alt="arrifuber" /> </p>
 
-- 🎒 Student at **SMKN 1 Denpasar**
-- 😀 Iam a newbie
+# 💫 About Me:
+🎒 Student at SMKN 1 Denpasar<br>😀 Iam a Newbie
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArrifUber&locale=en&hide_title=false&layout=compact&card_width=542&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-<!--     <img src="https://github-readme-stats.vercel.app/api?username=Arif-devolop&show_icons=true&theme=radical&card_width=542&" height="150" alt="languages graph"  /> -->
-  <img align="right" height="150" src="https://media1.tenor.com/m/VPW95GiH_BwAAAAC/blue-archive-ni-ga.gif"  />
-</div>
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arrifbudianto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arif-budi-anto) 
+
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Arrifuber&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Arrifuber&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arrifuber&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Arrifuber&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Arrifuber&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
+---
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
