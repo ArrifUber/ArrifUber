@@ -1,7 +1,5 @@
 <h2 align="left">Hi 👋! My name is Arif....</h2>
- <div align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/156047760?v=4&h=225&w=225&fit=cover&mask=circle&maxage=7d"/>
-</div>
+
 
 ---
 
